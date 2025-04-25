@@ -5,6 +5,10 @@ Demo code for paper called ‘Cost-focused intelligent reservoir logging interpr
 Cost-sensitive active learning experiments using publicly available datasets (Daniudi gas field logging data).
 The cost-sensitive matrix in this presentation task was set up subjectively by author.
 
+Main：daniudi-LI.py
+Data: daniudi-data.xlsx
+Result: acc.png and cost.png
+
 Daniudi-data Reference:
 DOI 10.1109/TGRS.2024.3450103
 
