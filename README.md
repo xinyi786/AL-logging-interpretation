@@ -6,7 +6,9 @@ Cost-sensitive active learning experiments using publicly available datasets (Da
 The cost-sensitive matrix in this presentation task was set up subjectively by author.
 
 Main：daniudi-LI.py
+
 Data: daniudi-data.xlsx
+
 Result: acc.png and cost.png
 
 Daniudi-data Reference:
