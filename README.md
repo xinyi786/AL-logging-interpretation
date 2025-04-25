@@ -1,4 +1,4 @@
-# AL-lithology-identification
+# AL-logging-interpretation
 Daniudi gas field logging data for lithology identification.
 Demo code for paper called ‘Cost-focused intelligent reservoir logging interpretation: evaluation of cost-sensitive active learning strategies’ planned to be published in EAAI.
 
