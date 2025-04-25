@@ -1,6 +1,6 @@
 # AL-lithology-identification
 Daniudi gas field logging data for lithology identification.
-Demo code for paper called ‘Cost-focused intelligent reservoir logging interpretation: evaluation of cost-sensitive active learning strategies’ planned to be published in EAAI
+Demo code for paper called ‘Cost-focused intelligent reservoir logging interpretation: evaluation of cost-sensitive active learning strategies’ planned to be published in EAAI.
 
 Cost-sensitive active learning experiments using publicly available datasets (Daniudi gas field logging data).
 The cost-sensitive matrix in this presentation task was set up subjectively by author.
